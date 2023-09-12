@@ -25,6 +25,11 @@ body {
   margin-left: 10px;
 }
 
+main img {
+  width: 450px;
+  height: 300px;
+}
+
 
 footer {
   margin-top: auto;

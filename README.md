@@ -5,7 +5,7 @@ This is a repo for The Odin Project recipes lesson. It contains a mock site of r
 ***Work in Progress***
 
 ### To Do List
-- [ ] Create basic outline of site
-- [ ] Add recipes (including images)
+- [x] Create basic outline of site
+- [x] Add recipes (including images)
 - [ ] List recipe steps
 - [ ] Style site
